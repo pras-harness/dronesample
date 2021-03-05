@@ -7,6 +7,7 @@ steps:
   image: alpine
   commands:
   - echo hello world
+  - sleep 1000
 
 ---
 kind: pipeline
@@ -18,3 +19,4 @@ steps:
   image: alpine
   commands:
   - echo bonjour monde
+  - sleep 1000
