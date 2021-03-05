@@ -1,10 +1,20 @@
 kind: pipeline
 type: kubernetes
-name: default
+name: en
 
 steps:
 - name: greeting
   image: alpine
   commands:
-  - echo hello1
-  - echo world1
+  - echo hello world
+
+---
+kind: pipeline
+type: kubernetes
+name: fr
+
+steps:
+- name: greeting
+  image: alpine
+  commands:
+  - echo bonjour monde
