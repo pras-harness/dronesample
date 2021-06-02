@@ -1,5 +1,5 @@
 kind: pipeline
-type: dokcer
+type: docker
 name: default
    
 steps:
