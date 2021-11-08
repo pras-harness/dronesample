@@ -9,7 +9,7 @@ steps:
   - echo hello
   - echo dockerh
 
-----------
+---
 
 kind: pipeline
 type: docker
