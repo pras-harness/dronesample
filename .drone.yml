@@ -7,7 +7,7 @@ steps:
   image: alpine
   commands:
   - echo hello444
-  - echo dockerh444
+  - echo dockerh444ff
 
 ---
 kind: signature
