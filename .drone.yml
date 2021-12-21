@@ -9,15 +9,3 @@ steps:
   - echo hello
   - echo dockerh
 
----
-
-kind: pipeline
-type: docker
-name: default2
-   
-steps:
-- name: test
-  image: alpine
-  commands:
-  - echo hello
-  - echo dockerh
