@@ -6,6 +6,6 @@ steps:
 - name: test
   image: alpine
   commands:
-  - echo hello
-  - echo dockerh
+  - echo hello444
+  - echo dockerh444
 
