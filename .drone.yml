@@ -9,7 +9,5 @@ steps:
   - echo hello444
   - echo dockerh444ff
 
----
-kind: signature
-hmac: 724067f1dabf95302514c8d914c1fdfba12ca90f018a4b706928901c06c6db8c
+
 
