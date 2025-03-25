@@ -1,14 +1,12 @@
-[
-  {
-      "service":"service1",
-      "artifact":"artifact1"
-
-  },
-  {
-      "service":"service2",
-      "artifact":"artifact2"
-
-  }
-
-
-]
+{
+  "data": [
+    {
+      "service": "service1",
+      "artifact": "artifact1"
+    },
+    {
+      "service": "service2",
+      "artifact": "artifact2"
+    }
+  ]
+}
