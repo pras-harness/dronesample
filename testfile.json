@@ -1,11 +1,11 @@
 {
   "data": [
     {
-      "service": "helmk8clone",
+      "service": "trinet1",
       "artifact": "artifact1"
     },
     {
-      "service": "helmk8",
+      "service": "trinet2",
       "artifact": "artifact2"
     }
   ]
